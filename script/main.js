@@ -209,7 +209,7 @@ const animationTimeline = () => {
       0.2
     )
     .from(
-      ".lydia-dp",
+      "img/IMG_20211124_131908.jpg",
       0.5,
       {
         scale: 3.5,
